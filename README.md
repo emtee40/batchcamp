@@ -28,6 +28,8 @@ Batchcamp is available to install in one click for
 - [Chrome](https://chrome.google.com/webstore/detail/batchcamp/jfcffbaekgnenlohblfgpohgdhalgjeb)
 - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/batchcamp/)
 
+Compiled Chrome and Firefox releases: [HERE](https://github.com/hyphmongo/batchcamp/RELEASES) 
+
 Or to manually build and install from source:
 
 ```
